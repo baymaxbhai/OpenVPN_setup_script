@@ -73,7 +73,7 @@ group nogroup
 
 proto tcp
 port 3128
-dev tun3128
+dev tun
 status openvpn-status-3128.log
 EOF
 
